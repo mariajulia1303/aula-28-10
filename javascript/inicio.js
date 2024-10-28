@@ -1,0 +1,1 @@
+Window.open("https://www.youtube.com/watch?v=Kkp7wz-9Vf4");
